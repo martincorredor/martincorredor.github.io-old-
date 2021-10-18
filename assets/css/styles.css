@@ -692,6 +692,9 @@ img{
 /*==================== CONTACT ME ====================*/
 .contact_container{
     row-gap: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
 }
 
 .contact_information{
