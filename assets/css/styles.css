@@ -388,11 +388,13 @@ img{
     border-radius: .5rem;
     justify-self: center;
     align-self: center;
+    margin-bottom: 16rem;
 }
 
 .about_description{
-    text-align: center;
+    text-align: justify;
     margin-bottom: var(--mb-2-5);
+    width: 27rem;
 }
 
 .about_info{
