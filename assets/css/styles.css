@@ -293,11 +293,16 @@ img{
 }
 
 .home_blob{
-    width: 200px;
+    width: 300px;
+    height: 300px;
     fill: var(--first-color);
 }
 
 .home_blob-img{
+    width: 250px;
+}
+
+.home_blob-img2{
     width: 170px;
 }
 
@@ -388,7 +393,6 @@ img{
     border-radius: .5rem;
     justify-self: center;
     align-self: center;
-    margin-bottom: 16rem;
 }
 
 .about_description{
